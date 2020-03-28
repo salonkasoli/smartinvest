@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Invest</string>
+
+    <string name="stock_add_ticker_placeholder">Тикер</string>
+</resources>
